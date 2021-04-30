@@ -1,0 +1,168 @@
+{
+    "author" : "Mustafa Berat Kurt",
+
+    "2021" : [
+        {
+            "baslik" : "Üç Ayların Başlangıcı",
+            "miladiTarih" : "13 Şubat ",
+            "hicriTarih" : "01 Recep 1442"
+        },
+        {
+            "baslik" : "Regaib Kandili",
+            "miladiTarih" : "18 Şubat ",
+            "hicriTarih" : "06 Recep 1442"
+        },
+        {
+            "baslik" : "Mirac Kandili",
+            "miladiTarih" : "10 Mart ",
+            "hicriTarih" : "26 Recep 1442"
+        },
+        {
+            "baslik" : "Berat Kandili",
+            "miladiTarih" : "27 Mart ",
+            "hicriTarih" : "14 Şaban 1442"
+        },
+        {
+            "baslik" : "Ramazan Başlangıcı",
+            "miladiTarih" : "13 Nisan ",
+            "hicriTarih" : "01 Ramazan 1442"
+        },
+        {
+            "baslik" : "Kadir Gecesi",
+            "miladiTarih" : "08 Mayıs ",
+            "hicriTarih" : "26 Ramazan 1442"
+        },
+        {
+            "baslik" : "Ramazan Bayramı",
+            "miladiTarih" : "13 Şubat ",
+            "hicriTarih" : "01 Recep 1442"
+        },
+        {
+            "baslik" : "Ramazan Bayramı",
+            "miladiTarih" : "14 Şubat ",
+            "hicriTarih" : "02 Recep 1442"
+        },
+        {
+            "baslik" : "Ramazan Bayramı",
+            "miladiTarih" : "15 Şubat ",
+            "hicriTarih" : "03 Recep 1442"
+        },
+        {
+            "baslik" : "Kurban Bayramı",
+            "miladiTarih" : "20 Temmuz ",
+            "hicriTarih" : "10 Zilhicce 1442"
+        },
+        {
+            "baslik" : "Kurban Bayramı",
+            "miladiTarih" : "21 Temmuz ",
+            "hicriTarih" : "11 Zilhicce 1442"
+        },
+        {
+            "baslik" : "Kurban Bayramı",
+            "miladiTarih" : "22 Temmuz ",
+            "hicriTarih" : "12 Zilhicce 1442"
+        },
+        {
+            "baslik" : "Kurban Bayramı",
+            "miladiTarih" : "23 Temmuz ",
+            "hicriTarih" : "13 Zilhicce 1442"
+        },
+        {
+            "baslik" : "Hicri Yılbaşı",
+            "miladiTarih" : "09 Ağustos ",
+            "hicriTarih" : "01 Muharrem 1443"
+        },
+        {
+            "baslik" : "Aşure Günü",
+            "miladiTarih" : "18 Ağustos ",
+            "hicriTarih" : "01 Recep 1442"
+        },
+        {
+            "baslik" : "Mevlid Kandili",
+            "miladiTarih" : "17 Ekim ",
+            "hicriTarih" : "11 Rebiülevvel 1442"
+        }
+    ],
+    "2022" : [
+        {
+            "baslik" : "Üç Ayların Başlangıcı",
+            "miladiTarih" : "02 Şubat ",
+            "hicriTarih" : "01 Recep 1442"
+        },
+        {
+            "baslik" : "Regaib Kandili",
+            "miladiTarih" : "03 Şubat ",
+            "hicriTarih" : "06 Recep 1442"
+        },
+        {
+            "baslik" : "Mirac Kandili",
+            "miladiTarih" : "27 Mart ",
+            "hicriTarih" : "26 Recep 1442"
+        },
+        {
+            "baslik" : "Berat Kandili",
+            "miladiTarih" : "17 Mart ",
+            "hicriTarih" : "14 Şaban 1442"
+        },
+        {
+            "baslik" : "Ramazan Başlangıcı",
+            "miladiTarih" : "02 Nisan ",
+            "hicriTarih" : "01 Ramazan 1442"
+        },
+        {
+            "baslik" : "Kadir Gecesi",
+            "miladiTarih" : "27 Nisan ",
+            "hicriTarih" : "26 Ramazan 1442"
+        },
+        {
+            "baslik" : "Ramazan Bayramı",
+            "miladiTarih" : "02 Mayıs ",
+            "hicriTarih" : "01 Recep 1442"
+        },
+        {
+            "baslik" : "Ramazan Bayramı",
+            "miladiTarih" : "03 Mayıs ",
+            "hicriTarih" : "02 Recep 1442"
+        },
+        {
+            "baslik" : "Ramazan Bayramı",
+            "miladiTarih" : "04 Mayıs ",
+            "hicriTarih" : "03 Recep 1442"
+        },
+        {
+            "baslik" : "Kurban Bayramı",
+            "miladiTarih" : "09 Temmuz ",
+            "hicriTarih" : "10 Zilhicce 1442"
+        },
+        {
+            "baslik" : "Kurban Bayramı",
+            "miladiTarih" : "10 Temmuz ",
+            "hicriTarih" : "11 Zilhicce 1442"
+        },
+        {
+            "baslik" : "Kurban Bayramı",
+            "miladiTarih" : "11 Temmuz ",
+            "hicriTarih" : "12 Zilhicce 1442"
+        },
+        {
+            "baslik" : "Kurban Bayramı",
+            "miladiTarih" : "12 Temmuz ",
+            "hicriTarih" : "13 Zilhicce 1442"
+        },
+        {
+            "baslik" : "Hicri Yılbaşı",
+            "miladiTarih" : "30 Temmuz ",
+            "hicriTarih" : "01 Muharrem 1443"
+        },
+        {
+            "baslik" : "Aşure Günü",
+            "miladiTarih" : "08 Ağustos ",
+            "hicriTarih" : "01 Recep 1442"
+        },
+        {
+            "baslik" : "Mevlid Kandili",
+            "miladiTarih" : "07 Ekim ",
+            "hicriTarih" : "11 Rebiülevvel 1442"
+        }
+    ]
+}
